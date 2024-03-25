@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">NetworkApp</string>
+    <string name="edit_btn_text">Edit</string>
+    <string name="no_post_selected_text">No post selected</string>
+    <string name="save_btn_text">Save</string>
+    <string name="post_details_text">Post Details</string>
+    <string name="title_label">Title</string>
+    <string name="body_label">Text</string>
+    <string name="posts_list_label">Posts</string>
+</resources>
